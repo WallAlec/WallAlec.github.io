@@ -1,8 +1,6 @@
-## Alec Wall - Data Science and Software Engineer 
+## Alec Wall - Data Science Engineer
 
-You can use the [editor on GitHub](https://github.com/WallAlec/WallAlec.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a rising senior at UC Berkeley, studying data science and with focus on computation and software development. I am looking to expand my abilities by gaining experience with finance focused datasets. 
 
 ### Markdown
 
