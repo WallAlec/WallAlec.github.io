@@ -1,6 +1,6 @@
 ## Alec Wall - Data Science Engineer
 
-I am a rising senior at UC Berkeley, studying data science and with focus on computation and software development. I am looking to expand my abilities by gaining experience with finance focused datasets. 
+About me: I am a rising senior at UC Berkeley, studying data science and with focus on computation and software development. I am looking to expand my abilities by gaining experience with finance focused datasets. 
 
 ### Markdown
 
