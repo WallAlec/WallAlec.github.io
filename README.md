@@ -4,7 +4,7 @@ About me: I am a believer in data and logic. I am able to thrive with my good fr
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I enjoy looking at complex problems and crafting a detailed solution.
 
 ```markdown
 Syntax highlighted code block
