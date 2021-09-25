@@ -8,7 +8,7 @@ I am a believer in data and logic. I am able to thrive with my good friends Pyth
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1 
 Side projects don't suffer from time pressure or external scope change, and usually don't require collaboration. They useful in reflecting a skillset. 
 ## Header 2
 ### Header 3
