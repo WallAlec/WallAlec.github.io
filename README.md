@@ -17,4 +17,4 @@ I was able to get the model to predict the sport of the ball with 94% accuracy a
 
 #San Diego Lidar project 
 #IBM womens chatbot project 
-#Make random classifier project  
+#Make random classifier project   
