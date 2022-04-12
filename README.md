@@ -1,7 +1,7 @@
 # Alec Wall
 Data Science Portfolio
 
-# [Project 1: Classifier: Distinction between Orality and Literacy]()
+# [Project 1: Classifier: Distinction between Orality and Literacy](https://github.com/WallAlec/Orality_vs_Literacy_in_dialouge/blob/main/OralityVsLiteracy-main/main.ipynb)
 * Created a tool that is able to distinquish between Orality and Literacy. 
 * Read in 100s of books as well as transcripted speech texts. 
 * Was able to see the relationship between written and oral dialogue. 
