@@ -8,16 +8,11 @@ Data Science Portfolio
 
 ![](https://github.com/WallAlec/WallAlec.github.io/blob/master/images/OralityVsLiteracyimage.png)
 
-# [Project 2: SuperComputer Center LiDAR] 
+# Project 2: SuperComputer Center LiDAR
 For this project I worked with a team running the National Science Foundation's Open Topography Facility that distributes high resolution topography datasets and associated processing tools to the earth science community via a web-based portal interface. Looked at hyperspectral and LIDAR data from remote sensing equipment. Was able to interpret data in PostgreSQL, pgadmin and MySQL on a daily basis to eventually create visualizations. Due to the private nature of the data from the clients, I am unable to attach private repositories and elected to share general user trends in my analysis. Anonomized for public viewing here:
 
 ![](https://github.com/WallAlec/WallAlec.github.io/blob/master/images/HeatMap.png)
 ![](https://github.com/WallAlec/WallAlec.github.io/blob/master/images/Trends.png)
 
 
-# [Project 3: IBM Womens Chatbot]
-For this 
-
-#San Diego Lidar project 
-#IBM womens chatbot project 
-#Make random classifier project   
+# Project 3: IBM Womens Chatbot
