@@ -7,7 +7,6 @@ Data Science Portfolio
 * Was able to see the relationship between written and oral dialogue. 
 
 ![](https://github.com/WallAlec/WallAlec.github.io/blob/master/images/OralityVsLiteracyimage.png)
-<img src="https://github.com/WallAlec/WallAlec.github.io/blob/master/images/OralityVsLiteracyimage.png" class="img-responsive" alt=""> </div>
 
 
 # Project 2: SuperComputer Center LiDAR
