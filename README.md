@@ -16,4 +16,4 @@ For this project I worked with a team running the National Science Foundation's 
 ![](https://github.com/WallAlec/WallAlec.github.io/blob/master/images/Trends.png)
 
 
-# Project 3: IBM Womens Chatbot
+# Project 3: IBM Women's Health Information Chatbot
