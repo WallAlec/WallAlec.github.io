@@ -1,18 +1,15 @@
-# Alec Wall
-Data Science Portfolio
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-# [Project 1: Classifier: Distinction between Orality and Literacy](https://github.com/WallAlec/Orality_vs_Literacy_in_dialouge/blob/main/OralityVsLiteracy-main/main.ipynb)
-* Created a tool that is able to distinquish between Orality (spoken) and Literacy (written) language. 
-* Read in 100s of books as well as transcripted speech texts. 
-* Was able to see the relationship between written and oral dialogue. 
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+Knujsl7/1L_dstPt3HV5HzF6Gvk/e3s0gukjdK8/9fFfq/" crossorigin="anonymous">
 
-![](https://github.com/WallAlec/WallAlec.github.io/blob/master/images/OralityVsLiteracyimage.png)
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="styles.css">
 
-
-# Project 2: SuperComputer Center LiDAR
-For this project I worked with a team running the National Science Foundation's Open Topography Facility that distributes high resolution topography datasets and associated processing tools to the earth science community via a web-based portal interface. Looked at hyperspectral and LIDAR data from remote sensing equipment. Was able to interpret data in PostgreSQL, pgadmin and MySQL on a daily basis to eventually create visualizations. Due to the private nature of the data from the clients, I am unable to attach private repositories and elected to share general user trends in my analysis. Anonomized for public viewing here: 
-
-![](https://github.com/WallAlec/WallAlec.github.io/blob/master/images/HeatMap.png)
-![](https://github.com/WallAlec/WallAlec.github.io/blob/master/images/Trends.png)
-
-
+  <title>Alec Wall | Data Science Portfolio</title>
+</head>
