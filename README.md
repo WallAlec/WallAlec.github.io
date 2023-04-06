@@ -1,16 +1,64 @@
-# Alec Wall
-Data Science Portfolio
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-# [Project 1: Classifier: Distinction between Orality and Literacy](https://github.com/WallAlec/Orality_vs_Literacy_in_dialouge/blob/main/OralityVsLiteracy-main/main.ipynb)
-* Created a tool that is able to distinquish between Orality (spoken) and Literacy (written) language. 
-* Read in 100s of books as well as transcripted speech texts. 
-* Was able to see the relationship between written and oral dialogue. 
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+Knujsl7/1L_dstPt3HV5HzF6Gvk/e3s0gukjdK8/9fFfq/" crossorigin="anonymous">
 
-![](https://github.com/WallAlec/WallAlec.github.io/blob/master/images/OralityVsLiteracyimage.png)
+  <!-- Custom CSS -->
+  <style>
+    /* Custom styles */
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
 
+    header {
+      margin-bottom: 2rem;
+    }
 
-# Project 2: SuperComputer Center LiDAR
-For this project I worked with a team running the National Science Foundation's Open Topography Facility that distributes high resolution topography datasets and associated processing tools to the earth science community via a web-based portal interface. Looked at hyperspectral and LIDAR data from remote sensing equipment. Was able to interpret data in PostgreSQL, pgadmin and MySQL on a daily basis to eventually create visualizations. Due to the private nature of the data from the clients, I am unable to attach private repositories and elected to share general user trends in my analysis. Anonomized for public viewing here: 
+    footer {
+      margin-top: 2rem;
+    }
+  </style>
 
-![](https://github.com/WallAlec/WallAlec.github.io/blob/master/images/HeatMap.png)
-![](https://github.com/WallAlec/WallAlec.github.io/blob/master/images/Trends.png)
+  <title>Alec Wall | Data Science Portfolio</title>
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="bg-primary text-white text-center py-5">
+    <h1>Alec Wall</h1>
+    <p>Believer in Data & Logic</p>
+  </header>
+
+  <!-- About Section -->
+  <section class="container my-5">
+    <h2>About Me</h2>
+    <p>
+      UC Berkeley Data Science major, actively learning and experimenting. Skilled in Python and SQL.
+    </p>
+  </section>
+
+  <!-- Portfolio Section -->
+  <section class="container my-5">
+    <h2>Portfolio</h2>
+    <div class="row">
+      <!-- Add your portfolio items here as cards -->
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-secondary text-white text-center py-3">
+    <p>&copy; 2023 Alec Wall. All rights reserved.</p>
+  </footer>
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz4fnFO9gybB3SxS3Lq5n5Df3J9uPda4p7/fs99uuy4//eR5jU9z6x6+z6" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
+</body>
+</html>
